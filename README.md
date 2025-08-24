@@ -4,46 +4,51 @@
 
 Chronic Kidney Disease (CKD) is a growing health concern worldwide, and often it is detected only in later stages. This project aims to detect CKD earlier by studying medical data and applying machine learning methods. Different classifiers were tested and compared to identify which ones give the most dependable results, with the goal of helping doctors and patients receive clearer, timely insights that support better treatment and care.
 
-## Objectives
+##  Objectives
 
-Detect CKD at early stages using patient medical records.
-Compare multiple machine learning classifiers for accuracy and reliability.
-Identify important medical features that influence CKD classification.
-Provide a system that can support doctors in making quicker, data-driven decisions.
+* Detect CKD at early stages using patient medical records.
+* Compare multiple machine learning classifiers for accuracy and reliability.
+* Identify important medical features that influence CKD classification.
+* Provide a system that can support doctors in making quicker, data-driven decisions.
 
-## Technologies & Tools
+##  Technologies & Tools
 
-**Programming Language:** Python 3.0
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-**Framework:** Flask (for simple web interface)
-**IDE:** PyCharm
-**Database:** MySQL (for storing records)
-**Dataset:** UCI Machine Learning Repository – CKD Dataset
+* **Programming Language:** Python 3.x
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Framework:** Flask (for simple web interface)
+* **IDE:** PyCharm
+* **Database:** MySQL (for storing records)
+* **Dataset:** UCI Machine Learning Repository – CKD Dataset
 
-## Methods & Approach
+##  Methods & Approach
 
-**Data Collection & Preprocessing** – handled missing values, normalized features, and prepared data for analysis.
-**Feature Selection** – identified key features such as age, haemoglobin, and WBC count.
-**Model Training** – applied multiple classifiers including:
+1. **Data Collection & Preprocessing** – handled missing values, normalized features, and prepared data for analysis.
+2. **Feature Selection** – identified key features such as age, haemoglobin, and WBC count.
+3. **Model Training** – applied multiple classifiers including:
+
    * Random Forest
    * Support Vector Machine (SVM)
    * Decision Tree
    * K-Nearest Neighbors (KNN)
-**Evaluation** – compared models on accuracy, sensitivity, and specificity.
-**Result** – SVM achieved the best performance with **\~86.5% accuracy**.
+4. **Evaluation** – compared models on accuracy, sensitivity, and specificity.
+5. **Result** – SVM achieved the best performance with **\~86.5% accuracy**.
 
-## Results
+##  Results
 
-Support Vector Machine outperformed other classifiers.
-Key features like haemoglobin levels, WBC count, and age had the most impact.
-Feature selection improved classifier accuracy by up to **4.7%**.
+* Support Vector Machine outperformed other classifiers.
+* Key features like haemoglobin levels, WBC count, and age had the most impact.
+* Feature selection improved classifier accuracy by up to **4.7%**.
 
-## Future Enhancements
+##  Future Enhancements
 
-Integration with live hospital data for real-time prediction.
-Deploying as a cloud-based application for wider access.
-Extending the model with deep learning techniques.
-Adding visualization dashboards for doctors and patients.
+* Integration with live hospital data for real-time prediction.
+* Deploying as a cloud-based application for wider access.
+* Extending the model with deep learning techniques.
+* Adding visualization dashboards for doctors and patients.
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** – feel free to use, learn, and build upon it.
 
 ## Acknowledgements
 
