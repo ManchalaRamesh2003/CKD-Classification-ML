@@ -6,45 +6,44 @@ Chronic Kidney Disease (CKD) is a growing health concern worldwide, and often it
 
 ## Objectives
 
-* Detect CKD at early stages using patient medical records.
-* Compare multiple machine learning classifiers for accuracy and reliability.
-* Identify important medical features that influence CKD classification.
-* Provide a system that can support doctors in making quicker, data-driven decisions.
+Detect CKD at early stages using patient medical records.
+Compare multiple machine learning classifiers for accuracy and reliability.
+Identify important medical features that influence CKD classification.
+Provide a system that can support doctors in making quicker, data-driven decisions.
 
 ## Technologies & Tools
 
-* **Programming Language:** Python 3.0
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-* **Framework:** Flask (for simple web interface)
-* **IDE:** PyCharm
-* **Database:** MySQL (for storing records)
-* **Dataset:** UCI Machine Learning Repository – CKD Dataset
+**Programming Language:** Python 3.0
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+**Framework:** Flask (for simple web interface)
+**IDE:** PyCharm
+**Database:** MySQL (for storing records)
+**Dataset:** UCI Machine Learning Repository – CKD Dataset
 
 ## Methods & Approach
 
-1. **Data Collection & Preprocessing** – handled missing values, normalized features, and prepared data for analysis.
-2. **Feature Selection** – identified key features such as age, haemoglobin, and WBC count.
-3. **Model Training** – applied multiple classifiers including:
-
+**Data Collection & Preprocessing** – handled missing values, normalized features, and prepared data for analysis.
+**Feature Selection** – identified key features such as age, haemoglobin, and WBC count.
+**Model Training** – applied multiple classifiers including:
    * Random Forest
    * Support Vector Machine (SVM)
    * Decision Tree
    * K-Nearest Neighbors (KNN)
-4. **Evaluation** – compared models on accuracy, sensitivity, and specificity.
-5. **Result** – SVM achieved the best performance with **\~86.5% accuracy**.
+**Evaluation** – compared models on accuracy, sensitivity, and specificity.
+**Result** – SVM achieved the best performance with **\~86.5% accuracy**.
 
 ## Results
 
-* Support Vector Machine outperformed other classifiers.
-* Key features like haemoglobin levels, WBC count, and age had the most impact.
-* Feature selection improved classifier accuracy by up to **4.7%**.
+Support Vector Machine outperformed other classifiers.
+Key features like haemoglobin levels, WBC count, and age had the most impact.
+Feature selection improved classifier accuracy by up to **4.7%**.
 
 ## Future Enhancements
 
-* Integration with live hospital data for real-time prediction.
-* Deploying as a cloud-based application for wider access.
-* Extending the model with deep learning techniques.
-* Adding visualization dashboards for doctors and patients.
+Integration with live hospital data for real-time prediction.
+Deploying as a cloud-based application for wider access.
+Extending the model with deep learning techniques.
+Adding visualization dashboards for doctors and patients.
 
 ## Acknowledgements
 
