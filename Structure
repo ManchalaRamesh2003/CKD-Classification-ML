@@ -1,0 +1,17 @@
+ckd-classification-ml/
+│-- data/              # Dataset (not uploaded here, use UCI repository)
+│-- notebooks/         # Jupyter notebooks for exploration
+│-- src/               # Python source code
+│   │-- preprocessing.py
+│   │-- models.py
+│   │-- evaluation.py
+│-- app/               # Flask web app
+│   │-- templates/
+│   │-- static/
+│   │-- app.py
+│-- results/           # Plots, accuracy scores, comparisons
+│-- requirements.txt   # Python dependencies
+│-- README.md          # Project documentation
+│-- LICENSE            # Project license
+│-- .gitignore         # Ignored files/folders
+│-- CONTRIBUTING.md    # Contribution guidelines
