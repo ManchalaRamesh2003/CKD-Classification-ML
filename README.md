@@ -162,7 +162,7 @@ Happy contributing! 🚀
 
 ## 🙏 Acknowledgements
 
-This work was carried out as part of our **final year B.Tech project** under the guidance of **Dr. K. Navaz, Professor, Department of CSE, AITS Tirupati**. Special thanks to faculty, friends, and family for their support.
+This work was carried out as part of our **final year B.Tech project** under the guidance of **Mr.S.Praveen Kumar ,Assistant Professor, Department of CSE, DR M.G.R Educational and Resesrch Institute,Chennai**. Special thanks to faculty, friends, and family for their support.
 
 ---
 
