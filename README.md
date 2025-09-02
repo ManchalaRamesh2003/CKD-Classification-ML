@@ -48,4 +48,4 @@ Chronic Kidney Disease (CKD) is a growing health concern worldwide, and often it
 
 ## Acknowledgements
 
-This work was carried out as part of our **Final year B.Tech project** under the guidance of **Mr. S. Praveen Kumar , Assistant Professor , Department of CSE , DR M. G. R Educational and Resesrch Institute,Chennai**. Special thanks to faculty, friends, and for their support.
+This work was carried out as part of our **Final year B.Tech project** under the guidance of **Mr. S. Praveen Kumar , Assistant Professor , Department of CSE , DR M. G. R Educational and Research Institute,Chennai**. Special thanks to faculty, friends, and for their support.
