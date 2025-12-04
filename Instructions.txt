@@ -1,5 +1,5 @@
 ===========================================
-Project Title: CLASSIFICATION OF CHRONIC KIDNEY DISEASE USING MACHINE LEARNING CLASSIFIERS
+Title: CLASSIFICATION OF CHRONIC KIDNEY DISEASE USING MACHINE LEARNING CLASSIFIERS
 ===========================================
 
 Built With:
