@@ -13,7 +13,7 @@ Chronic Kidney Disease (CKD) is a growing health concern worldwide, and often it
 
 ##  Technologies & Tools
 
-* **Programming Language:** Python 3.x
+* **Programming Language:** Python 3.0
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
 * **Framework:** Flask (for simple web interface)
 * **IDE:** PyCharm
