@@ -1,7 +1,5 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to this project! 🎉
-
 ## How to Contribute
 1. **Fork the repository** – Create your own copy of this project.
 2. **Create a new branch** – Use a descriptive branch name (e.g., `feature-model-update`).
@@ -18,6 +16,3 @@ Thank you for considering contributing to this project! 🎉
 
 ## Code of Conduct
 Be respectful and constructive in all discussions. Treat others with kindness and collaborate in a positive way.
-
----
-Happy contributing! 🚀
